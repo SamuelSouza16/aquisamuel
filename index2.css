@@ -1,0 +1,12 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    background-color: #172031;
+    color: antiquewhite;
+}
+img{
+    height: 170px;
+    width: 190px;
+    border-radius: 5px;
+    border: 50% solid blue;
+}
